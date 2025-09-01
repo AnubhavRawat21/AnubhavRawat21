@@ -1,37 +1,54 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋, I'm Anubhav Rawat</h1>
 
-###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+---
 
-###
+### 🧑‍💻 About Me
+I'm a developer passionate about **AI, Robotics, and Web Development**.  
+I love experimenting with new tech, building cool projects, and contributing to open-source. 🚀  
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+---
 
-###
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnubhavRawat21&theme=darkhub&margin-w=15&margin-h=15&column=6" alt="trophies"/>
+</p>
+
+---
+
+### 📊 GitHub Contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnubhavRawat21&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+</p>
+
+---
+
+### 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnubhavRawat21&show_icons=true&theme=radical" height="180">
+</p>
+
+---
+
+### 🚀 Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,arduino,raspberrypi,html,css,js,flutter,mysql,git,github,linux,vscode" />
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🔹 [Cool AI Bot](#) – An intelligent assistant for automation.  
+- 🔹 [Robotics Simulator](#) – A simulator for robotic motion planning.  
+- 🔹 [Portfolio Website](#) – Personal site showcasing my work.  
+
+---
+
+### 🎵 Vibes While Coding
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+</p>
+
+---
+
+✨ Generated with ❤️ using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), [Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph), and [Trophies](https://github.com/ryo-ma/github-profile-trophy).
